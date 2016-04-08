@@ -4,17 +4,18 @@
 **João Eduardo Montandon**
 
 ### Implemente um programa em JavaScript que imprima a seguinte forma no console:
-
+```
 #
 ##
 ###
 ####
 #####
 ######
+```
 OBS: A quantidade de linhas deve ser informada pelo usuário.
 
 ### Implemente um programa em JavaScript que imprima na página um tabuleiro de xadrez:
-
+```
 # # # #
  # # # #
 # # # #
@@ -23,6 +24,7 @@ OBS: A quantidade de linhas deve ser informada pelo usuário.
  # # # #
 # # # #
  # # # #
+```
 OBS: A quantidade de linhas deve ser informada pelo usuário.
 
 ### Implemente um programa que, dado uma palavra de entrada pelo usuário, verifique se essa palavra é um palíndromo. Um palíndromo é uma palavra que poder ser lida tanto da direita para a esquerda como da esquerda para a direita.
